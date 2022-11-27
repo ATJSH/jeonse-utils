@@ -1,0 +1,17 @@
+{
+  "name": "jeonse-utils",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/ATJSH/jeonse-utils",
+  "author": "전성훈 / SUNG HOON CHON <letaem77@gmail.com>",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "apps/*"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
